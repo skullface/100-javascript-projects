@@ -1,6 +1,6 @@
 # 100 Days of Javascript
 
-Inspired by [@jessabean’s own 100 Days of JS](https://github.com/jessabean/100-javascript-projects), Jennifer Dewalt's [180 websites in 180 days](http://jenniferdewalt.com/index.html), and the [100 day project](https://thegreatdiscontent.com/100days).
+Learning JavaScript with 100 small projects! Inspired by [@jessabean’s own 100 Days of JS](https://github.com/jessabean/100-javascript-projects), Jennifer Dewalt's [180 websites in 180 days](http://jenniferdewalt.com/index.html), and the [100 day project](https://thegreatdiscontent.com/100days), I will gain a functional understanding of JS through experiments, exercises, and practice.
 
 ## Rules
 
@@ -120,10 +120,11 @@ Inspired by [@jessabean’s own 100 Days of JS](https://github.com/jessabean/100
 
 ## Contributions
 
-If you'd like to suggest a project (or projects!): [open an issue and suggest away](http://github.com/skullfaces/100-javascript-projects/issues)! 😀 If you have a code suggestion or something else that fits in a [PR](http://github.com/skullfaces/100-javascript-projects/pull-requests), I‘m curious to hear more! Please remember to be kind — I’m learning as I go.
+If you'd like to suggest a project (or projects!): [open an issue and suggest away](http://github.com/skullfaces/100-javascript-projects/issues)! 😀 If you have a code suggestion or something else that fits in a [PR](http://github.com/skullfaces/100-javascript-projects/pulls), I‘m curious to hear more! Please remember to be kind — I’m learning as I go. 💖
 
 ## Resources
 
 - [WeAllJS: A JavaScript Community for Everyone](https://wealljs.org/)
 - [JavaScript30 by Wes Bos](https://github.com/wesbos/JavaScript30)
+- [JavaScript on Exercism.io](http://exercism.io/languages/javascript/exercises)
 - [Design Resources](http://github.com/skullface/design-resources)
