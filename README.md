@@ -1,6 +1,6 @@
 # 100 Days of Javascript
 
-Learning JavaScript with 100 small projects! Inspired by [@jessabean’s own 100 Days of JS](https://github.com/jessabean/100-javascript-projects), Jennifer Dewalt's [180 websites in 180 days](http://jenniferdewalt.com/index.html), and the [100 day project](https://thegreatdiscontent.com/100days), I will gain a functional understanding of JS through experiments, exercises, and practice.
+Learning JavaScript with 100 small projects! Inspired by [@jessabean](https://github.com/jessabean/100-javascript-projects), Jennifer Dewalt's [180 websites in 180 days](http://jenniferdewalt.com/index.html), and [#The100DayProject](https://the100dayproject.org/) by Elle Luna, I will gain a functional understanding of JS through experiments, exercises, and practice.
 
 ## Rules
 
@@ -126,5 +126,11 @@ If you'd like to suggest a project (or projects!): [open an issue and suggest aw
 
 - [WeAllJS: A JavaScript Community for Everyone](https://wealljs.org/)
 - [JavaScript30 by Wes Bos](https://github.com/wesbos/JavaScript30)
+- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [JavaScript on Exercism.io](http://exercism.io/languages/javascript/exercises)
-- [Design Resources](http://github.com/skullface/design-resources)
+- [Mega Project List for any programming language](https://github.com/karan/Projects)
+- [JavaScript Resources list by Women Who Code DC](https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md#beginner-resources)
+- [Google Creative Labs’ Coder Projects](https://googlecreativelab.github.io/coder-projects/)
+- [_JavaScript for Web Designers_ by Mat Marquis](https://abookapart.com/products/javascript-for-web-designers)
+- [_Eloquent JavaScript_ by Marijn Haverbeke](http://eloquentjavascript.net/)
+- [Design Resources](http://github.com/skullface/design-resources) 😉
