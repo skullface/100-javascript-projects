@@ -1,6 +1,6 @@
 # 100 Days of Javascript
 
-Inspired by [@jessabean’s own 100 Days of JS](https://github.com/jessabean/100-javascript-projects), Jennifer Dewalt's [180 websites in 180 days](http://jenniferdewalt.com/index.html), the [100 day project](https://thegreatdiscontent.com/100days).
+Inspired by [@jessabean’s own 100 Days of JS](https://github.com/jessabean/100-javascript-projects), Jennifer Dewalt's [180 websites in 180 days](http://jenniferdewalt.com/index.html), and the [100 day project](https://thegreatdiscontent.com/100days).
 
 ## Rules
 
@@ -8,7 +8,6 @@ Inspired by [@jessabean’s own 100 Days of JS](https://github.com/jessabean/100
 2. There's no time limit on how long an individual exercise can take.
 3. Perfect is the enemy of good. I will not be afraid of making mistakes.
 4. I will ask for help when I need it.
-5. The first 30 projects will follow [Wes Bos’ JavaScript30](https://github.com/wesbos/JavaScript30)
 
 ## Projects
 
@@ -121,9 +120,10 @@ Inspired by [@jessabean’s own 100 Days of JS](https://github.com/jessabean/100
 
 ## Contributions
 
-If you'd like to suggest a project (or projects!): [open an issue and suggest away](http://github.com/skullfaces/100-javascript-projects/issues)! 😀 If you have a code suggestion or something else that fits in a PR, I‘m curious to hear more! Please remember I’m learning as I go.
+If you'd like to suggest a project (or projects!): [open an issue and suggest away](http://github.com/skullfaces/100-javascript-projects/issues)! 😀 If you have a code suggestion or something else that fits in a [PR](http://github.com/skullfaces/100-javascript-projects/pull-requests), I‘m curious to hear more! Please remember to be kind — I’m learning as I go.
 
 ## Resources
 
-- [WeALLJS: A JavaScript Community for Everyone](https://wealljs.org/)
+- [WeAllJS: A JavaScript Community for Everyone](https://wealljs.org/)
+- [JavaScript30 by Wes Bos](https://github.com/wesbos/JavaScript30)
 - [Design Resources](http://github.com/skullface/design-resources)
