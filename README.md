@@ -8,8 +8,8 @@ Learning JavaScript with 100 small projects! Inspired by [@jessabean](https://gi
 4. I will ask for help when I need it.
 
 ## Projects
-001. **Kingdom Hearts soundboard** / [view project](https://skullface.github.io/kingdom-hearts-soundboard/) / [view code](https://github.com/skullface/kingdom-hearts-soundboard/)
-002.
+001. **Kingdom Hearts soundboard** / [view project](https://skullface.github.io/kingdom-hearts-soundboard/) / [view code + commentary](https://github.com/skullface/kingdom-hearts-soundboard/)
+002. **Issa clock** / [view project](https://skullface.github.io/issa-clock/) / [view code + commentary](https://github.com/skullface/issa-clock/)
 003.
 004.
 005.
