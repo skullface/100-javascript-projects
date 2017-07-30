@@ -1,17 +1,14 @@
 # 100 Days of Javascript
-
-Learning JavaScript with 100 small projects! Inspired by [@jessabean](https://github.com/jessabean/100-javascript-projects), Jennifer Dewalt's [180 websites in 180 days](http://jenniferdewalt.com/index.html), and [#The100DayProject](https://the100dayproject.org/) by Elle Luna, I will gain a functional understanding of JS through experiments, exercises, and practice.
+Learning JavaScript with 100 small projects! Inspired by [@jessabean](https://github.com/jessabean/100-javascript-projects), Jennifer Dewalt's [180 websites in 180 days](http://jenniferdewalt.com/index.html), [#The100DayProject](https://the100dayproject.org/) by Elle Luna, and [JavaScript30](https://github.com/wesbos/#JavaScript30) by Wes Bos, I will gain a functional understanding of JS through experiments, exercises, and practice.
 
 ## Rules
-
 1. I will do 100 small JavaScript projects.
 2. There's no time limit on how long an individual exercise can take.
 3. Perfect is the enemy of good. I will not be afraid of making mistakes.
 4. I will ask for help when I need it.
 
 ## Projects
-
-001. [Kingdom Hearts soundboard](https://skullface.github.io/kingdom-hearts-soundboard/) ([#Javascript30](https://javascript30.com/) Day 1)
+001. **Kingdom Hearts soundboard** / [view project](https://skullface.github.io/kingdom-hearts-soundboard/) / [view code](https://github.com/skullface/kingdom-hearts-soundboard/)
 002.
 003.
 004.
@@ -113,17 +110,14 @@ Learning JavaScript with 100 small projects! Inspired by [@jessabean](https://gi
 100.
 
 ## More 100 JS Projects
-
 - [jessabean](https://github.com/jessabean/100-javascript-projects)
 - [dotsara](https://github.com/dotsara/100-projects)
 - [elyseholladay](https://github.com/elyseholladay/100-javascript-projects)
 
 ## Contributions
-
 If you'd like to suggest a project (or projects!): [open an issue and suggest away](http://github.com/skullfaces/100-javascript-projects/issues)! 😀 If you have a code suggestion or something else that fits in a [PR](http://github.com/skullfaces/100-javascript-projects/pulls), I‘m curious to hear more! Please remember to be kind — I’m learning as I go. 💖
 
 ## Resources
-
 - [WeAllJS: A JavaScript Community for Everyone](https://wealljs.org/)
 - [JavaScript30 by Wes Bos](https://github.com/wesbos/JavaScript30)
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
