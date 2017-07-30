@@ -11,7 +11,7 @@ Learning JavaScript with 100 small projects! Inspired by [@jessabean](https://gi
 
 ## Projects
 
-001.
+001. [Kingdom Hearts soundboard](https://skullface.github.io/kingdom-hearts-soundboard/) ([#Javascript30](https://javascript30.com/) Day 1)
 002.
 003.
 004.
