@@ -1,5 +1,5 @@
-# 100 Days of Javascript
-Learning JavaScript with 100 small projects! Inspired by [@jessabean](https://github.com/jessabean/100-javascript-projects), Jennifer Dewalt's [180 websites in 180 days](http://jenniferdewalt.com/index.html), [#The100DayProject](https://the100dayproject.org/) by Elle Luna, and [JavaScript30](https://github.com/wesbos/#JavaScript30) by Wes Bos, I will gain a functional understanding of JS through experiments, exercises, and practice.
+# 100 Days of JavaScript
+Learning JavaScript with 100 small projects! Inspired by [@jessabean](https://github.com/jessabean/100-javascript-projects), Jennifer Dewalt's [180 websites in 180 days](http://jenniferdewalt.com/index.html), [#The100DayProject](https://the100dayproject.org/) by Elle Luna, and [#JavaScript30](https://javascript30.com/) by Wes Bos, I will gain a functional understanding of JS through experiments, exercises, and practice.
 
 ## Rules
 1. I will do 100 small JavaScript projects.
